@@ -8,6 +8,11 @@
 3. [Phobos-Rs232](https://github.com/phobos-security-packet/Phobos-Rs232)
 4. [AuxDriver](https://github.com/phobos-security-packet/AuxDriver)
 
+## Общая структура микросервисов.
+<p align="center">
+  <img src="../pics/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BE%D0%B2.png" width="500"/>
+</p>
+
 ## Описание.
 
 ### Phobos-APM.
